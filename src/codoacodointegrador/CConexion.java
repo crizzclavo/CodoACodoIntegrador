@@ -18,7 +18,7 @@ public class CConexion {
     Connection conectar = null;
     
     String usuario  = "root";
-    String contrasenia = "kuragami";
+    String contrasenia = "root";
     String baseDatos = "integrador_cac";
     String ip = "localhost";
     String puerto = "3306";
